@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+//test
 public class DME {
 
 	public static void main(String[] args) {
