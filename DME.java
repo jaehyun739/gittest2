@@ -30,18 +30,18 @@ public class DME {
 			count2 = count;
 			while(count>0) {
 				if((state==0)&&(a[count2-count]==0)) {
-					System.out.print("‾⌉_");
+					System.out.print("hello");
 				}
 				else if((state==0)&&(a[count2-count]==1)) {
 					state = 1;
-					System.out.print("_⌈‾");
+					System.out.print("gi");
 				}
 				else if((state==1)&&(a[count2-count]==0)) {
-					System.out.print("_⌈‾");
+					System.out.print("asd");
 				}
 				else if((state==1)&&(a[count2-count]==1)) {
 					state = 0;
-					System.out.print("‾⌉_");
+					System.out.print("fff");
 				}
 				count--;
 			}
@@ -51,7 +51,7 @@ public class DME {
 			}
 			System.out.println();
 		}
-		//⌈ ⌉
+		//sdfasd
 	}
 
 }
