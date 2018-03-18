@@ -1,6 +1,6 @@
 package SMU;
 
-/**
+/*
  * Hello world!
  *
  */
