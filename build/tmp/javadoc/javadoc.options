@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\Jaehyun\\Documents\\GitHub\\gittest2\\build\\classes\\java\\main;C:\\Users\\Jaehyun\\Documents\\GitHub\\gittest2\\build\\resources\\main'
+-d 'C:\\Users\\Jaehyun\\Documents\\GitHub\\gittest2\\build\\docs\\javadoc'
+-doctitle 'gittest2 1.0 API'
+-quiet 
+-windowtitle 'gittest2 1.0 API'
+'C:\\Users\\Jaehyun\\Documents\\GitHub\\gittest2\\src\\main\\java\\SMU\\App.java'
+'C:\\Users\\Jaehyun\\Documents\\GitHub\\gittest2\\src\\main\\java\\SMU\\DME.java'
