@@ -1,3 +1,4 @@
 language: java
-email:
-    - jaehyun739@gmail.com
+notifications:
+    email:
+        - jaehyun739@gmail.com
